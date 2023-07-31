@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nuria Viana</h1>
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nvianaperez.nvianaperez" />
 
 - 🔭 I’m currently working on **SpringBoot API Rest**
 
@@ -67,4 +68,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvianaperez&" alt="nvianaperez" /></p>
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=nvianaperez&label=Profile%20views&color=0e75b6&style=flat" alt="nvianaperez" /> </p>)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=nvianaperez.NuriaViana" />
+
