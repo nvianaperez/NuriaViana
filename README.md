@@ -67,3 +67,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvianaperez&" alt="nvianaperez" /></p>
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=nvianaperez&label=Profile%20views&color=0e75b6&style=flat" alt="nvianaperez" /> </p>)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nvianaperez.NuriaViana" />
